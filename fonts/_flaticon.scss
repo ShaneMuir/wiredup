@@ -1,0 +1,81 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 25/09/2018 16:51
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-plug:before { content: "\f100"; }
+.flaticon-lighting:before { content: "\f101"; }
+.flaticon-repairs:before { content: "\f102"; }
+.flaticon-cert:before { content: "\f103"; }
+.flaticon-inspection:before { content: "\f104"; }
+.flaticon-add:before { content: "\f105"; }
+.flaticon-phone-call:before { content: "\f106"; }
+.flaticon-table-lamp:before { content: "\f107"; }
+.flaticon-technology-1:before { content: "\f108"; }
+.flaticon-technology:before { content: "\f109"; }
+.flaticon-air-conditioner:before { content: "\f10a"; }
+.flaticon-chip:before { content: "\f10b"; }
+.flaticon-checked:before { content: "\f10c"; }
+.flaticon-left-chevron:before { content: "\f10d"; }
+.flaticon-right-arrow-angle:before { content: "\f10e"; }
+.flaticon-star:before { content: "\f10f"; }
+.flaticon-people:before { content: "\f110"; }
+.flaticon-trophy:before { content: "\f111"; }
+.flaticon-interface:before { content: "\f112"; }
+.flaticon-technology-2:before { content: "\f113"; }
+.flaticon-video-player:before { content: "\f114"; }
+    
+    $font-Flaticon-plug: "\f100";
+    $font-Flaticon-lighting: "\f101";
+    $font-Flaticon-repairs: "\f102";
+    $font-Flaticon-cert: "\f103";
+    $font-Flaticon-inspection: "\f104";
+    $font-Flaticon-add: "\f105";
+    $font-Flaticon-phone-call: "\f106";
+    $font-Flaticon-table-lamp: "\f107";
+    $font-Flaticon-technology-1: "\f108";
+    $font-Flaticon-technology: "\f109";
+    $font-Flaticon-air-conditioner: "\f10a";
+    $font-Flaticon-chip: "\f10b";
+    $font-Flaticon-checked: "\f10c";
+    $font-Flaticon-left-chevron: "\f10d";
+    $font-Flaticon-right-arrow-angle: "\f10e";
+    $font-Flaticon-star: "\f10f";
+    $font-Flaticon-people: "\f110";
+    $font-Flaticon-trophy: "\f111";
+    $font-Flaticon-interface: "\f112";
+    $font-Flaticon-technology-2: "\f113";
+    $font-Flaticon-video-player: "\f114";
