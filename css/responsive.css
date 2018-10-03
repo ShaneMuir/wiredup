@@ -212,8 +212,7 @@
 	}
 	.main-menu .navbar-collapse>.navigation>li>a:hover,
 	.main-menu .navbar-collapse>.navigation>li>a:active,
-	.main-menu .navbar-collapse>.navigation>li>a:focus {
-	}
+	.main-menu .navbar-collapse>.navigation>li>a:focus {}
 	.main-menu .navbar-collapse>.navigation>li:hover>a,
 	.main-menu .navbar-collapse>.navigation>li>ul>li:hover>a,
 	.main-menu .navbar-collapse>.navigation>li>ul>li>ul>li:hover>a,
@@ -353,11 +352,11 @@
 		top: 15px;
 	}
 	.main-header .main-logo {
-		position: absolute ;
-		top: 0px ;
-		left: 0 ;
+		position: absolute;
+		top: 0px;
+		left: 0;
 		display: inline-flex;
-		float: right ;
+		float: right;
 	}
 	.service-section .item-holder .icon-box {
 		left: 40%!important;
@@ -375,48 +374,64 @@
 		right: -10px;
 		z-index: 12;
 	}
-		.service-section .item-holder .icon-box {
+	.service-section .item-holder .icon-box {
 		left: 36%!important;
 	}
 
 }
 
 @media only screen and (max-width: 550px) {
-		.home-title {
+	.home-title {
 		padding-left: 20px !important;
 		padding-right: 20px !important;
-		
+
 	}
 	.home-heading {
 		font-size: 27px !important;
 	}
-	.service-section .item-holder .icon-box{
-	position: absolute;
-	border: 1px solid #e5e5e5;
-	width: 85px;
-	height: 85px;
-	border-radius: 50%;
-	text-align: center;
-	line-height: 105px;
-	background: #ffffff;
-	display: inline-block;
-	top: -42px;
-	left: 142px;
+	.service-section .item-holder .icon-box {
+		position: absolute;
+		border: 1px solid #e5e5e5;
+		width: 85px;
+		height: 85px;
+		border-radius: 50%;
+		text-align: center;
+		line-height: 105px;
+		background: #ffffff;
+		display: inline-block;
+		top: -42px;
+		left: 142px;
+	}
 }
+
+@media only screen and (max-width: 400px) {
+	.service-section .item-holder .icon-box {
+		position: absolute;
+		border: 1px solid #e5e5e5;
+		width: 85px;
+		height: 85px;
+		border-radius: 50%;
+		text-align: center;
+		line-height: 80px;
+		background: #ffffff;
+		display: inline-block;
+		top: -42px;
+		left: 142px;
+	}
 }
 
 @media only screen and (max-width: 796px) {
-		.service-section .item-holder .icon-box{
-	position: absolute;
-	border: 1px solid #e5e5e5;
-	width: 85px;
-	height: 85px;
-	border-radius: 50%;
-	text-align: center;
-	line-height: 105px !important;
-	background: #ffffff;
-	display: inline-block;
-	top: -42px;
-	left: 142px;
-}
+	.service-section .item-holder .icon-box {
+		position: absolute;
+		border: 1px solid #e5e5e5;
+		width: 85px;
+		height: 85px;
+		border-radius: 50%;
+		text-align: center;
+		line-height: 105px;
+		background: #ffffff;
+		display: inline-block;
+		top: -42px;
+		left: 142px;
+	}
 }
