@@ -203,8 +203,8 @@ ul,li{
 	color: #ffffff;
 	line-height: 25px;
 	padding: 12px 30px;
-	background: #e60000;
-	border: 1px solid #e60000;
+	background: #007fff;
+	border: 1px solid #007fff;
 	border-radius: 25px;
 	display: inline-block;
 	letter-spacing: .5px;
@@ -217,8 +217,8 @@ ul,li{
 	-o-transition:all 0.5s ease;
 }
 .btn-style-one:hover{
-	color: #e60000;
-	border: 1px solid #e60000;
+	color: #007fff;
+	border: 1px solid #007fff;
 	background: transparent;
 	transition:all 0.5s ease;
 	-moz-transition:all 0.5s ease;
@@ -246,8 +246,8 @@ ul,li{
 }
 .btn-style-two:hover{
 	color: #ffffff;
-	background: #e60000;
-	border: 1px solid #e60000;
+	background: #007fff;
+	border: 1px solid #007fff;
 	transition:all 0.5s ease;
 	-moz-transition:all 0.5s ease;
 	-webkit-transition:all 0.5s ease;
@@ -293,8 +293,8 @@ ul,li{
 	line-height:40px;
 	width:45px;
 	height:45px;
-	border: 1px solid #e60000;
-	background: #e60000;
+	border: 1px solid #007fff;
+	background: #007fff;
 	text-align:center;
 	z-index:100;
 	cursor:pointer;
@@ -308,8 +308,8 @@ ul,li{
 }
 .scroll-to-top:hover {
     background: #ffffff;
-    color: #e60000;
-    border-color: #e60000;
+    color: #007fff;
+    border-color: #007fff;
     transition: all 500ms ease;
 }
 
@@ -394,7 +394,7 @@ ul,li{
 .main-menu .navigation > li.current-menu-item > a{
 	position: relative;
 	opacity:1;
-	color: #e60000;
+	color: #007fff;
 	transition:all 500ms ease;
 }
 .main-menu .navigation > li > ul{
@@ -431,7 +431,7 @@ ul,li{
 	font-size:14px;
 	text-transform:capitalize;
 	color: #ffffff;
-	background: #e60000;
+	background: #007fff;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
@@ -439,7 +439,7 @@ ul,li{
 	-o-transition:all 500ms ease;
 }
 .main-menu .navigation > li > ul > li > a:hover{
-	color: #e60000;
+	color: #007fff;
 	background: #ffffff;
 	transition:all 500ms ease;
 }
@@ -478,7 +478,7 @@ ul,li{
 .main-header .contact-links h6 i:before{
 	margin-left: 0px;
 	font-size: 26px;
-	color: #e60000;
+	color: #007fff;
 	margin-right: 16px;
 }
 
@@ -509,8 +509,8 @@ ul,li{
   background: #fff;
   padding: 15px 40px;
   color: #ffffff;
-  border: 1px solid #e60000;
-  background: #e60000;
+  border: 1px solid #007fff;
+  background: #007fff;
   transition: all 500ms ease !important;
   -moz-transition: all 500ms ease !important;
   -webkit-transition: all 500ms ease !important;
@@ -519,7 +519,7 @@ ul,li{
 }
 .rev_slider_wrapper .slide-content-box .button a:hover{
   background: transparent;
-  color: #e60000;
+  color: #007fff;
   transition: all 500ms ease !important;
   -moz-transition: all 500ms ease !important;
   -webkit-transition: all 500ms ease !important;
@@ -599,8 +599,8 @@ ul,li{
     -o-transition: all 500ms ease;
 }
 .caption-section .link-btn a:hover{
-	color: #e60000;
-	border: 1px solid #e60000;
+	color: #007fff;
+	border: 1px solid #007fff;
 	transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     -webkit-transition: all 500ms ease;
@@ -662,7 +662,7 @@ ul,li{
 }
 .about-section .image-text .check-menu li i{
 	font-size: 14px;
-	color: #e60000;
+	color: #007fff;
 	margin-right: 12px;
 }
 .about-section .image-text .link-btn{
@@ -726,7 +726,7 @@ ul,li{
 .wellcome-section .content-text .menu-list li i{
 	font-size: 17px;
 	margin-right: 16px;
-	color: #e60000;
+	color: #007fff;
 }
 .wellcome-section .image-box{
 	position: relative;
@@ -834,12 +834,12 @@ ul,li{
     transition: all 1500ms ease;
 }
 .service-section .item-holder:hover i:before{
-	color: #e60000;
+	color: #007fff;
 	transition: all 500ms ease;
 }
 .service-section .item-holder:hover .link-btn a{
 	color: #ffffff;
-	background: #e60000;
+	background: #007fff;
 	transition: all 1500ms ease;
 }
 
@@ -972,7 +972,7 @@ ul,li{
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 26px;
-	color: #e60000;
+	color: #007fff;
 	padding-bottom: 15px;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -1000,8 +1000,8 @@ ul,li{
 }
 .team-section .image-holder .social-links li i:hover{
 	color: #ffffff;
-	border-color: #e60000;
-	background: #e60000;
+	border-color: #007fff;
+	background: #007fff;
 	transition: all 500ms ease;
 }
 .team-section .image-holder .content-text{
@@ -1096,7 +1096,7 @@ ul,li{
 .testimonials-section .image-content h6{
 	font-size: 16px;
 	line-height: 20px;
-	color: #e60000;
+	color: #007fff;
 	font-weight: 400;
 	padding-top: 5px;
 	text-transform: capitalize;
@@ -1133,9 +1133,9 @@ ul,li{
     position: relative;
     height: 12px;
     width: 12px;
-    border: 2px solid #e60000;
+    border: 2px solid #007fff;
     border-radius: 50%;
-    background: #e60000;
+    background: #007fff;
 }
 
 /*** 
@@ -1200,7 +1200,7 @@ ul,li{
 }
 .blog-section .content-text .blog-info li i{
 	margin-right: 10px;
-	color: #e60000;
+	color: #007fff;
 	font-size: 14px;
 }
 .blog-section .content-text p{
@@ -1333,7 +1333,7 @@ ul,li{
 	transition:all 500ms ease;
 }
 .footer-top .menu-link li:hover a{
-	color: #e60000;
+	color: #007fff;
 	transition:all 500ms ease;
 }
 .footer-top .location-info li:nth-child(1){
@@ -1358,7 +1358,7 @@ ul,li{
 	transition:all 500ms ease;
 }
 .footer-top .location-info li a:hover{
-	color: #e60000;
+	color: #007fff;
 	transition:all 500ms ease;
 }
 .footer-top .social-links{
@@ -1380,7 +1380,7 @@ ul,li{
 	transition:all 500ms ease;
 }
 .footer-top .social-links  li i:hover{
-	color: #e60000;
+	color: #007fff;
 	background: #ffffff;
 	border: 2px solid #ffffff;
 	transition:all 500ms ease;
@@ -1402,7 +1402,7 @@ ul,li{
 	font-family: 'Open Sans', sans-serif;
 }
 .footer-bottom .copyright-text a{
-	color: #e60000;
+	color: #007fff;
 }
 
 
@@ -1456,7 +1456,7 @@ ul,li{
 	line-height: 30px;
 	font-weight: 600;
 	padding-right: 4px;
-	color: #e60000;
+	color: #007fff;
 	text-transform: capitalize;
 	font-family: 'Open Sans', sans-serif;
 	display: inline-block;
@@ -1469,7 +1469,7 @@ ul,li{
 	-o-transition:all 0.5s ease;
 }
 .title-menu li a:hover{
-	color: #e60000;
+	color: #007fff;
 	transition:all 0.5s ease;
 	-moz-transition:all 0.5s ease;
 	-webkit-transition:all 0.5s ease;
@@ -1510,7 +1510,7 @@ ul,li{
 	font-family: 'Montserrat', sans-serif;
 }
 .service-details .service-menu li:hover{
-	background: #e60000;
+	background: #007fff;
 	padding-left: 20px;
 	transition:all 0.5s ease;
 }
@@ -1554,7 +1554,7 @@ ul,li{
 	font-family: 'Open Sans', sans-serif;
 }
 .service-details .service-right .content-list li i{
-	color: #e60000;
+	color: #007fff;
 	margin-right: 12px;
 }
 .service-details .service-right .content-text{
@@ -1610,7 +1610,7 @@ ul,li{
 }
 .gallery-section .filters li:hover,
 .gallery-section .filters li.active{
-	color: #e60000;
+	color: #007fff;
 }
 .gallery-section{
 	padding-top: 90px;
@@ -1707,7 +1707,7 @@ ul,li{
 	font-family: 'Montserrat', sans-serif;
 }
 .error-section h3 span{
-	color: #e70707;
+	color: #007fff;
 }
 .error-section .link-btn{
 	padding-bottom: 38px;
@@ -1767,7 +1767,7 @@ ul,li{
 	position: absolute;
 	left: 0px;
 	top: 0px;
-	color: #e60000;
+	color: #007fff;
 }
 .contact-section .location-info .item strong{
 	font-size: 18px;
@@ -1828,13 +1828,13 @@ ul,li{
   padding: 10px 20px;
 }
 .contact-section .contact-form form input[type="text"]:focus{
-  border-color: #e60000;        
+  border-color: #007fff;        
 }
 .contact-section .contact-form form input[type="email"]:focus{
-  border-color: #e60000;        
+  border-color: #007fff;        
 }
 .contact-section .contact-form form textarea:focus{
-  border-color: #e60000;    
+  border-color: #007fff;    
 }
 .contact-section .contact-form form button{
 	margin-top: -10px;
@@ -1903,12 +1903,12 @@ ul,li{
     transition: all 500ms ease;
 }
 .accordion-box .accordion .accord-btn.active h6 {
-    color: #e60000;
+    color: #007fff;
     transition: all 500ms ease;
 }
 .accordion-box .accordion .accord-btn.active:after{
     content: "\f106";
-    color: #e60000;
+    color: #007fff;
     transition: all 500ms ease 0s;
 }
 .accordion-box .accordion .accord-content {
@@ -1965,7 +1965,7 @@ ul,li{
     right: 0px;
     top: 0px;
     border-radius: 0px 8px 8px 0px;
-    background: #e60000;
+    background: #007fff;
 }
 .blog-section.style-two .right-side .search-box button i{
     position: relative;
@@ -2005,7 +2005,7 @@ ul,li{
 	font-family: 'Open Sans', sans-serif;
 }
 .blog-section.style-two .right-side .categorise-list li a:hover{
-	color: #e60000;
+	color: #007fff;
 }
 .blog-section.style-two .right-side .categorise-list li span{
 	float: right;
@@ -2071,8 +2071,8 @@ ul,li{
 }
 .blog-section.style-two .right-side .popular-list li a:hover{
 	color: #ffffff;
-	background: #e60000;
-	border: 1px solid #e60000;
+	background: #007fff;
+	border: 1px solid #007fff;
 	transition:all 500ms ease;
 }
 
@@ -2118,8 +2118,8 @@ ul,li{
 .styled-pagination li a:hover,
 .styled-pagination li a.active{
 	color:#ffffff;	
-	border-color:#e60000;
-	background:#e60000;	
+	border-color:#007fff;
+	background:#007fff;	
 	transition:all 500ms ease;
 }
 
@@ -2200,8 +2200,8 @@ ul,li{
     border: 1px solid #e5e5e5;
 }
 .blog-section.style-three .left-side .Reviews-section .social-links li a:hover i{
-	color: #e60000;
-	border-color: #e60000;
+	color: #007fff;
+	border-color: #007fff;
 	transition:all 500ms ease;
 }
 .blog-section.style-three .left-side .comments-area .section-title h6{
@@ -2253,7 +2253,7 @@ ul,li{
 	right: 0px;
     font-size: 14px;
     line-height: 26px;
-    color: #e60000;
+    color: #007fff;
     font-weight: 400;
     text-transform: capitalize;
     font-family: 'Montserrat', sans-serif;
@@ -2302,8 +2302,8 @@ ul,li{
 }
 .blog-section.style-three .left-side .form-area input:hover,
 .blog-section.style-three .left-side .form-area input:focus {
-    border-color: #e60000;
-    color: #e60000;
+    border-color: #007fff;
+    color: #007fff;
     transition: all 500ms ease;
 }
 .blog-section.style-three .left-side .form-area textarea {
@@ -2319,8 +2319,8 @@ ul,li{
 }
 .blog-section.style-three .left-side .form-area textarea:hover,
 .blog-section.style-three .left-side .form-area textarea:focus {
-    border-color: #e60000;
-    color: #e60000;
+    border-color: #007fff;
+    color: #007fff;
     transition: all 500ms ease;
 }
 .blog-section.style-three input::-webkit-input-placeholder {
